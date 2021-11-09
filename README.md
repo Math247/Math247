@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://avatars.githubusercontent.com/u/50381305?v=4">
+ 
+# Bem vindo!
+ 
+## Matheus Carregal
+ 
+Sou técnico em Informática formado pelo CEFET/RJ.
 
-<!--
-**Math247/Math247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente cursando Ciência da Computação na Cruzeiro do Sul.
+ 
+## Sobre Mim
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Math247)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-carregal-2ab08517b/)](link_do_seu_perfil_no_linkedin)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuschabib@gmail.com)](mailto:matheuschabib@gmail.com)
+ 
+- Obrigado por visitar. 
+ 
