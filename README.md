@@ -6,7 +6,7 @@
  
 Sou técnico em Informática formado pelo CEFET/RJ.
 
-Atualmente cursando Ciência da Computação na Cruzeiro do Sul.
+Atualmente trabalhando como Desenvolvedor Full Stack na Concilie Online.
  
 ## Sobre Mim
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Math247)
