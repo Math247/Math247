@@ -1,4 +1,4 @@
-## Bem vindo! Sou o Matheus Carregal, Desenvolvedor Full Stack!
+## Bem vindo! Sou Matheus Carregal, Desenvolvedor Full Stack!
 <div align="center">
   <a href="https://github.com/Math247">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math247&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
